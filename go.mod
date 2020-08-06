@@ -1,4 +1,4 @@
-module unionpay
+module github.com/phpstudyer/unionpay
 
 go 1.14
 
