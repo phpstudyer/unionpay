@@ -1,0 +1,4 @@
+github.com/mitchellh/mapstructure v1.3.3 h1:SzB1nHZ2Xi+17FP0zVQBHIZqvwRN9408fJO8h+eeNA8=
+github.com/mitchellh/mapstructure v1.3.3/go.mod h1:bFUtVrKA4DC2yAKiSyO/QUcy7e+RRV2QTWOzhPopBRo=
+github.com/shima-park/unionpay v0.0.0-20180703031435-57efcb293e6c h1:iD+z9Wb5j2dw68UaZR6znQJAdRD8kO3E7rLefAQoLrc=
+github.com/shima-park/unionpay v0.0.0-20180703031435-57efcb293e6c/go.mod h1:VGcjvneMAS1gKhZDrsu1LLrCtF79mmHz2uppX4lkyOs=
